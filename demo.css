@@ -1,0 +1,72 @@
+.person
+{
+
+margin : 10px;
+border : 1px solid #eee;
+box-shadow : 0 2px 2px #ccc;
+padding : 20px;
+display : inline-block;
+width : 300;
+height : 200;
+font-size: 20px;
+
+}
+.head
+{
+padding : 20px;
+background-color:DodgerBlue;
+color:white;
+}
+.person1
+{
+
+margin : 10px;
+border : 1px solid #eee;
+box-shadow : 0 2px 2px #ccc;
+width : 1040;
+padding : 20px;
+display : inline-block;
+height : 200;
+font-size: 20px;
+}
+
+nav {
+  float: left;
+  width: 25%;
+  height:100%;
+  padding:20px;
+  padding-right: 30px;
+
+border : 1px solid #eee;
+box-shadow : 0 2px 2px #ccc;
+  position : absolute;
+  left :1130px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li a {
+  display: block;
+  width: 300px;
+}
+a:link, a:visited {
+  background-color: #1E90FF;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+
+footer {
+  background-color: DodgerBlue;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
